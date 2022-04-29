@@ -1,0 +1,46 @@
+# Blender 3.1.0 MTL File: 'base.blend'
+# www.blender.org
+
+newmtl textured_0.001
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  drive-download-20220401T071026Z-001\자유시간-poly\textured_0_0gKf9i3S.jpg
+
+newmtl textured_0.006
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  drive-download-20220401T071026Z-001\가나(레드)-poly\textured_0_lvx5D78E.jpg
+
+newmtl textured_0.007
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  drive-download-20220401T071026Z-001\가나(옐로)-poly\textured_0_uz8htIZz.jpg
+
+newmtl textured_0.008
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  drive-download-20220401T071026Z-001\핫브레이크-poly\textured_0_9sPd8l0b.jpg
